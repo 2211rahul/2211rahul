@@ -13,6 +13,7 @@
 - 🌱 I’m Recently Done **PG-DAC(PostGraduation-Diploma in Advance Computing)**
 
 - 🌱 I’m Recently Done Project [OWC(One Who Creates)](https://frontend-gold-two.vercel.app/)
+
 <!-- - 🌱 And Another One Project is [FoodDelivery](https://frontend-gold-two.vercel.app/) -->
 
 - 📫 How to reach me **rahulraut7588@gmail.com**
@@ -39,9 +40,9 @@ Now currently, I am Looking for an opportunity to work in a challenging environm
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitmore31&show_icons=true&locale=en" alt="rohitmore31" /></p> -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href=https://www.linkedin.com/in/rahul-raut-367250196/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulraut" height="30" width="40" /></a>
 <a href="https://leetcode.com/Rahul-n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulraut" height="30" width="40" /></a>
 </p>
-
+ -->
